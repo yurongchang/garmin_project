@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="67" pc="268435461" symbol="onLayout"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="74" pc="268435501" symbol="onShow"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="82" pc="268435548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="83" pc="268435584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="84" pc="268435596" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="85" pc="268435632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="86" pc="268435645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="87" pc="268435676" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="89" pc="268435707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="92" pc="268435824" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="94" pc="268435899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="96" pc="268435974" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="97" pc="268436073" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="98" pc="268436199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="99" pc="268436337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="106" pc="268436442" symbol="onHide"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="118" pc="268436495" symbol="onPosition"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="119" pc="268436505" symbol="onPosition"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="123" pc="268436524" symbol="dist"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="124" pc="268436580" symbol="dist"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="125" pc="268436598" symbol="dist"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="126" pc="268436635" symbol="dist"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestView.mc" lineNum="132" pc="268436655" symbol="deg2rad"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="8" pc="268436670" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="11" pc="268436681" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="12" pc="268436694" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="14" pc="268436707" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="17" pc="268436731" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="18" pc="268436742" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="19" pc="268436755" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestMenuDelegate.mc" lineNum="20" pc="268436768" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="8" pc="268436796" symbol="initialize"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="21" pc="268436823" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="26" pc="268436893" symbol="onHold"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="27" pc="268436914" symbol="onHold"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="28" pc="268436998" symbol="onHold"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="32" pc="268437004" symbol="onRelease"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="33" pc="268437025" symbol="onRelease"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="34" pc="268437109" symbol="onRelease"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="39" pc="268437115" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="40" pc="268437142" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="41" pc="268437226" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="44" pc="268437232" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="45" pc="268437259" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="46" pc="268437300" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="48" pc="268437322" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="50" pc="268437335" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="53" pc="268437341" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="54" pc="268437368" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="55" pc="268437385" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="57" pc="268437407" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="59" pc="268437444" symbol="onKey"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\UITest\\source\\UITestApp.mc" lineNum="61" pc="268437450" symbol="onKey"/>
+<entry filename="Rez" lineNum="13" pc="268437457" symbol="initialize"/>
+<entry filename="Rez" lineNum="14" pc="268437475" symbol="initialize"/>
+<entry filename="Rez" lineNum="15" pc="268437497" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268437522" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="32" pc="268437536" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268437646" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268437661" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268437713" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="13" symbol="courses"/>
+<entry field="true" id="10" symbol="test3"/>
+<entry field="true" id="9" symbol="test2"/>
+<entry field="true" id="8" symbol="test1"/>
+<entry id="24" object="true" symbol="MainMenu"/>
+<entry field="true" id="31" symbol="d2r"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="25" method="true" symbol="MainLayout"/>
+<entry field="true" id="15" symbol="currentCourseIdx"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="35" symbol="item_2"/>
+<entry id="34" symbol="item_1"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry id="18" object="true" symbol="UITestApp"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry id="17" object="true" symbol="UITestMenuDelegate"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="32" method="true" symbol="deg2rad"/>
+<entry field="true" id="27" symbol="posnInfo"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="29" method="true" symbol="onPosition"/>
+<entry id="19" object="true" symbol="KeyDelegate"/>
+<entry id="22" module="true" symbol="Layouts"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389099" method="true" symbol="onHold"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="12" symbol="testCourse2"/>
+<entry id="30" method="true" symbol="dist"/>
+<entry id="21" module="true" symbol="Menus"/>
+<entry field="true" id="11" symbol="testCourse"/>
+<entry id="16" object="true" symbol="UITestView"/>
+<entry id="8389100" method="true" symbol="onRelease"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="28" symbol="R"/>
+<entry field="true" id="14" symbol="currentHoleIdx"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435896" name="lat" stackId="2" startPc="268435645"/>
+<entry endPc="268435896" name="lon" stackId="3" startPc="268435645"/>
+<entry endPc="268435896" name="distanceStr" stackId="4" startPc="268435645"/>
+<entry endPc="268436652" name="x" stackId="5" startPc="268436524"/>
+<entry endPc="268436652" name="distance" stackId="7" startPc="268436524"/>
+<entry endPc="268436652" name="y" stackId="6" startPc="268436524"/>
+<entry endPc="268437730" name="rez_cmp_local_label_CA5JFQD9CO_font" stackId="2" startPc="268437522"/>
+<entry endPc="268437730" name="rez_cmp_local_label_CA5JFQD9CO_fontHeight" stackId="4" startPc="268437522"/>
+<entry endPc="268437730" name="rez_cmp_local_label_CA5JFQD9CO" stackId="3" startPc="268437522"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="UITestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="UITestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="UITestView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="UITestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="UITestView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="UITestView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="UITestView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onPosition" parent="UITestView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="dist" parent="UITestView">
+<param id="lat1"/>
+<param id="lon1"/>
+<param id="lat2"/>
+<param id="lon2"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="deg2rad" parent="UITestView">
+<param id="deg"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="UITestMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="UITestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="UITestApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="UITestApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="UITestApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHold" parent="KeyDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onRelease" parent="KeyDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="KeyDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

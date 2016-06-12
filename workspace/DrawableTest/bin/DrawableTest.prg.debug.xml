@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Yulon\\workspace\\DrawableTest\\source\\DrawableTestView.mc" lineNum="13" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\DrawableTest\\source\\DrawableTestView.mc" lineNum="38" pc="268435509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\DrawableTest\\source\\DrawableTestView.mc" lineNum="39" pc="268435545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\DrawableTest\\source\\DrawableTestView.mc" lineNum="40" pc="268435589" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\DrawableTest\\source\\DrawableTestApp.mc" lineNum="6" pc="268435621" symbol="initialize"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\DrawableTest\\source\\DrawableTestApp.mc" lineNum="19" pc="268435648" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268435688" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268435712" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268435758" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268435765" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268435772" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268435785" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268435798" symbol="draw"/>
+<entry filename="Rez" lineNum="33" pc="268435823" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="34" pc="268435859" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268435903" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="37" pc="268435939" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="38" pc="268435975" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="40" pc="268436058" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268436094" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="43" pc="268436160" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="44" pc="268436196" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="46" pc="268436247" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="47" pc="268436283" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="49" pc="268436369" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="50" pc="268436405" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="52" pc="268436496" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="53" pc="268436532" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="54" pc="268436577" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="55" pc="268436613" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="57" pc="268436664" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="58" pc="268436700" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="60" pc="268436791" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="61" pc="268436827" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="63" pc="268437019" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="64" pc="268437055" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="65" pc="268437105" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="66" pc="268437141" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="68" pc="268437227" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="69" pc="268437263" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="71" pc="268437349" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="72" pc="268437385" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="74" pc="268437471" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="75" pc="268437507" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="77" pc="268437757" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="78" pc="268437793" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="80" pc="268437850" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="94" pc="268437901" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="95" pc="268437915" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="96" pc="268438012" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="97" pc="268438027" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="98" pc="268438079" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="99" pc="268438125" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="12" symbol="id_cloud"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="14" object="true" symbol="train"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="image_id_cloud"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8" object="true" symbol="DrawableTestView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="9" object="true" symbol="DrawableTestApp"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435820" name="pWidth" stackId="4" startPc="268435758"/>
+<entry endPc="268435820" name="pY" stackId="3" startPc="268435758"/>
+<entry endPc="268435820" name="pX" stackId="2" startPc="268435758"/>
+<entry endPc="268435820" name="pHeight" stackId="5" startPc="268435758"/>
+<entry endPc="268438142" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268437901"/>
+<entry endPc="268438142" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268437901"/>
+<entry endPc="268438142" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268437901"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="DrawableTestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="DrawableTestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="DrawableTestView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DrawableTestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="DrawableTestView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="DrawableTestView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="DrawableTestView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="DrawableTestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="DrawableTestApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="DrawableTestApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="DrawableTestApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="train">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="train">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="train">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

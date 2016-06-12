@@ -1,0 +1,12 @@
+class KeyDelegate extends Ui.InputDelegate {
+
+	function onHold(key) {
+		Sys.println("onHold");
+		Ui.pushView(
+        	new Rez.Menus.MainMenu(), 
+        	new GolfDistanceMenuDelegate(), 
+            Ui.SLIDE_UP
+        );
+    	return true;
+	}
+}

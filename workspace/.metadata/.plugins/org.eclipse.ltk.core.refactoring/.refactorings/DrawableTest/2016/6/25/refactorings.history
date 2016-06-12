@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DrawableTest/resources/bitmap.xml&apos; to &apos;bitmaps.xml&apos;" description="Rename resource &apos;bitmap.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="resources/bitmap.xml" name="bitmaps.xml" stamp="1465741289577" updateReferences="true"/>
+</session>

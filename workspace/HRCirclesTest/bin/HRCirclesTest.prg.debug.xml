@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="30" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="31" pc="268435488" symbol="initialize"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="37" pc="268435550" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="38" pc="268435563" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="41" pc="268435567" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="43" pc="268435592" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="44" pc="268435647" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="45" pc="268435672" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="48" pc="268435750" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="49" pc="268435775" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="52" pc="268435853" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="53" pc="268435878" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="56" pc="268435956" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="57" pc="268435981" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="60" pc="268436030" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="61" pc="268436055" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="64" pc="268436078" symbol="compute"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="69" pc="268436090" symbol="onLayout"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="89" pc="268436133" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="91" pc="268436150" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="95" pc="268436154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="96" pc="268436161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="98" pc="268436191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="101" pc="268436220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="103" pc="268436231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="106" pc="268436235" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="107" pc="268436247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="108" pc="268436283" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="109" pc="268436327" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="111" pc="268436359" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="114" pc="268436461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="118" pc="268436480" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="119" pc="268436547" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="120" pc="268436620" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="121" pc="268436693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="122" pc="268436766" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="127" pc="268436842" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="129" pc="268436868" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="130" pc="268436900" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="131" pc="268436907" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="132" pc="268436917" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="133" pc="268436945" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="135" pc="268436973" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="137" pc="268437003" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="138" pc="268437018" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="139" pc="268437031" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="140" pc="268437044" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestView.mc" lineNum="141" pc="268437048" symbol="drawArc"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestApp.mc" lineNum="6" pc="268437103" symbol="initialize"/>
+<entry filename="C:\\Users\\Yulon\\workspace\\HRCirclesTest\\source\\HRCirclesTestApp.mc" lineNum="19" pc="268437130" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268437170" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268437184" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268437281" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268437296" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268437348" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268437394" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="19" symbol="timeInZone"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="8389506" symbol="age"/>
+<entry field="true" id="22" symbol="ARC_MAX_ITERS"/>
+<entry field="true" id="23" symbol="numberColor"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="9" object="true" symbol="HRCirclesTestApp"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="21" symbol="BAR_THICKNESS"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8" object="true" symbol="HRCirclesTestView"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="24" symbol="fullCircle"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="20" symbol="zones"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="17" symbol="restingHR"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="18" symbol="hrr"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="15" symbol="maxHR"/>
+<entry field="true" id="16" symbol="hr"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="12" symbol="id_monkey"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389687" method="true" symbol="drawArc"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435547" name="i" stackId="1" startPc="268435488"/>
+<entry endPc="268436220" name="i" stackId="3" startPc="268436191"/>
+<entry endPc="268436839" name="sum" stackId="2" startPc="268436133"/>
+<entry endPc="268436839" name="c" stackId="4" startPc="268436133"/>
+<entry endPc="268437078" name="dxtemp" stackId="13" startPc="268437018"/>
+<entry endPc="268437091" name="i" stackId="12" startPc="268437018"/>
+<entry endPc="268437091" name="stheta" stackId="11" startPc="268436842"/>
+<entry endPc="268437091" name="dy" stackId="9" startPc="268436842"/>
+<entry endPc="268437091" name="iters" stackId="7" startPc="268436842"/>
+<entry endPc="268437091" name="dx" stackId="8" startPc="268436842"/>
+<entry endPc="268437091" name="ctheta" stackId="10" startPc="268436842"/>
+<entry endPc="268437411" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="4" startPc="268437170"/>
+<entry endPc="268437411" name="rez_cmp_local_label_TimeLabel_font" stackId="2" startPc="268437170"/>
+<entry endPc="268437411" name="rez_cmp_local_label_TimeLabel" stackId="3" startPc="268437170"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="HRCirclesTestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="HRCirclesTestView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="HRCirclesTestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="HRCirclesTestView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="HRCirclesTestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawArc" parent="HRCirclesTestView">
+<param id="dc"/>
+<param id="cx"/>
+<param id="cy"/>
+<param id="radius"/>
+<param id="theta"/>
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="HRCirclesTestView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="HRCirclesTestView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="HRCirclesTestView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="HRCirclesTestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="HRCirclesTestApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="HRCirclesTestApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="HRCirclesTestApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

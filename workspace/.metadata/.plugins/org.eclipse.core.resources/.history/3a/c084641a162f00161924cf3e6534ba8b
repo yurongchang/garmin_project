@@ -1,0 +1,6 @@
+<layout>
+	<drawable id="MoveBar" class="CustomMoveBar" />
+		<param name="color">Gfx.COLOR_RED</param>
+		<param name="string">"Hello Custom Drawable!"</param>
+	</drawable>
+</layout>
